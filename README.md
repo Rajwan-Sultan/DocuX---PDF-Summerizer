@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Launch the App
 ```bash
-streamlit run app.py
+streamlit run docux.py
 ```
 
 ### 4️⃣ Start Chatting!
@@ -96,7 +96,7 @@ graph LR
 ```
 pdf-chat-assistant/
 │
-├── 📄 app.py                 # Main application
+├── 📄 docux.py                 # Main application
 ├── 📋 requirements.txt       # Dependencies
 ├── 📖 README.md             # This file
 └── 🗂️ temp/                 # Temporary files (auto-cleaned)
