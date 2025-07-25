@@ -1,4 +1,4 @@
-# 📚 DocuX - PDF Summerizer
+# 📚 DocuX - PDF Summarizer
 
 > Transform your PDFs into interactive conversations! Upload any PDF and chat with its content using AI-powered intelligence.
 
