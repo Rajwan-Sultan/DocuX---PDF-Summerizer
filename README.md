@@ -1,4 +1,4 @@
-# 📚 PDF Chat Assistant
+# 📚 DocuX - PDF Summerizer
 
 > Transform your PDFs into interactive conversations! Upload any PDF and chat with its content using AI-powered intelligence.
 
